@@ -12,11 +12,18 @@
     color: #f8fafc
 }
 
+.container h4 {
+    text-align: center;
+    font-weight: bold;
+    color: #f8fafc;
+    letter-spacing: 0.1rem;
+}
+
 .game-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
-    padding: 24px 128px;
+    padding: 12px 128px;
     margin: 0 128px;
     gap: 8px;
 }
