@@ -1,4 +1,3 @@
-
 *{
     background-color: #475569;
 }
@@ -30,4 +29,6 @@
     border-radius: 12px;
     font-size: 8rem;
     color: #f8fafc;
+    height: 128px;
+    width: 140px;
 }
