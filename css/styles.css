@@ -12,11 +12,19 @@
     color: #f8fafc
 }
 
-.container h4 {
+.text-display {
     text-align: center;
     font-weight: bold;
     color: #f8fafc;
     letter-spacing: 0.1rem;
+}
+
+.winner-display{
+    text-align: center;
+    font-weight: bold;
+    color: #f8fafc;
+    letter-spacing: 0.2rem;
+    margin-top: 24px;
 }
 
 .game-container{
@@ -38,4 +46,30 @@
     color: #f8fafc;
     height: 128px;
     width: 140px;
+}
+
+.restart-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.restart-btn,
+.restart-btn:focus{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: #334155;
+    color: #f1f5f9;
+    border: 3px solid #f1f5f9;
+    font-size: 2rem;
+    letter-spacing: 0.3rem;
+    height: 64px;
+    width: 200px;
+}
+
+.restart-btn:hover{
+    color: #f1f5f9;
+    border: 3px solid #f1f5f9;
+    font-size: 2.2rem;
+    
 }
