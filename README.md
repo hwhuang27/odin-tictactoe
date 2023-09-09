@@ -6,6 +6,8 @@ JavaScript practice project for [The Odin Project](https://www.theodinproject.co
 
 CSS template provided by [Skeleton](http://getskeleton.com/).
 
+https://hwhuang27.github.io/odin-tictactoe
+
 # Learning points
 
 - Structuring JavaScript with Factory functions & Modules 
