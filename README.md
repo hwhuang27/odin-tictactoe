@@ -1,6 +1,4 @@
-# Tic Tac Toe Project
-
-Tic Tac Toe minigame.
+# Tic Tac Toe
 
 JavaScript practice project for [The Odin Project](https://www.theodinproject.com/).
 
