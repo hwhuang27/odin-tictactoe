@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-Simple Tic-Tac-Toe minigame app
+Simple Tic-Tac-Toe minigame app.\
 https://hwhuang27.github.io/odin-tictactoe
 
 JavaScript practice project for [The Odin Project](https://www.theodinproject.com/).
